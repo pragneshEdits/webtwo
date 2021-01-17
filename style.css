@@ -1,0 +1,135 @@
+/*h3 {
+    color: orangered;
+}
+
+
+.header{
+    background-color: orange;
+    display:flex;
+    justify-content: space-between;
+    /* background-image: url('fb.png');
+   to add background image
+
+}
+
+.bodyImg{
+    background-image: url('OrigamiImages/back.jpg');
+} */
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/deep-navy-blue-background-abstract-bacground-design-simple-colour-140300945.jpg);
+}
+
+.all{
+    font-family: 'rockwell';
+}
+.header{
+    background-color: rgb(59, 141, 255);
+    text-align: center;
+    border: dashed;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: larger;
+}
+.link{
+    background-color: rgb(59, 141, 255);
+    padding: 10px;
+    margin-top: 15px;
+    border:dashed;
+    margin-right: 360px;
+    margin-left:350px;
+}
+.link a {
+    margin-left: 15px;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.link a:hover{
+    color:red;
+}
+.camel{
+    margin-top:50px;
+    margin-left: 400px;
+    margin-right: 500px;
+    border:dashed;
+    background-color: rgb(59, 141, 255)
+    
+}
+.camel:hover{
+    opacity: 1;
+    transition-duration: 0.7s;
+    transform:scale(1.05);
+    box-shadow: 5px 5px 5px 5px #000000;
+}
+.camel:hover h3{
+    opacity: 1;
+}
+.abCamel{
+ background-color: rgb(59, 141, 255);
+ border:dashed;
+ margin-top:25px;
+ padding-left: 15px;
+ margin-left: 100px;
+ margin-right: 100px;
+}
+.chameleon{
+    margin-top:50px;
+    margin-left: 400px;
+   margin-right:500px;
+    border:dashed;
+    background-color: rgb(59, 141, 255)
+    
+}
+.chameleon:hover{
+    opacity: 1;
+    transition-duration: 0.7s;
+    transform:scale(1.05);
+    box-shadow: 5px 5px 5px 5px #000000;
+}
+.chameleon:hover h3{
+    opacity: 1;
+}
+.abChameleon{
+ background-color: rgb(59, 141, 255);
+ border:dashed;
+ margin-top:25px;
+ padding-left: 15px;
+ margin-left: 100px;
+ margin-right: 100px;
+}
+.pigeon{
+    margin-top:50px;
+    margin-left: 400px;
+   margin-right:500px;
+    border:dashed;
+    background-color: rgb(59, 141, 255)
+    
+}
+.pigeon:hover{
+    opacity: 1;
+    transition-duration: 0.7s;
+    transform:scale(1.05);
+    box-shadow: 5px 5px 5px 5px #000000;
+}
+.pigeon:hover h3{
+    opacity: 1;
+}
+.abpigeon{
+ background-color: rgb(59, 141, 255);
+ border:dashed;
+ margin-top:25px;
+ padding-left: 15px;
+ margin-left: 100px;
+ margin-right: 100px;
+}
+.footer{
+    background-color: rgb(59, 141, 255);
+    border:dashed;
+    margin-top:25px;
+    padding-left: 15px;
+}
+
